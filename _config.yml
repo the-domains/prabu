@@ -1,0 +1,28 @@
+name: Prabu
+favicon: null
+layout_spectrum: 0.6131814010441303
+typography_spectrum: 0.6200630848761648
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7811187682673335
+  lightness: 0.632049011066556
+  saturation: 0.7933646282181144
+  rhythmicContrast: 0.27834232547320426
+purpose: []
